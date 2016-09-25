@@ -1,1 +1,1 @@
-# russian_newspaper_coverage_of_CC
+# Measuring and modeling Russian coverage of climate change
